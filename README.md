@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+![](https://github.com/RubenTadeia/gif/sloth_zootopia.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
